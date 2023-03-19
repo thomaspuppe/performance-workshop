@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Website Performance Workshop</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <meta name="theme-color" content="#fafafa">
+</head>
+
+<body style="font-size:24px;line-height: 1.6;">
+
+  <aside class="sourcebar">This site is part of a Website Performance Workshop. <a href="https://github.com/thomaspuppe/performance-workshop">Source code</a> and <a href="https://lama.thomaspuppe.de/presentation.pdf">presentation slides</a> are available online.</aside>
+
+  <header>
+    <h1>Website Performance</h1>
+  </header>
+
+  <main>
+
+    <p><a href="https://lama.thomaspuppe.de">https://lama.thomaspuppe.de</a></p>
+
+    <h2>Setup der lokalen Website</h2>
+
+    <p><a href="https://github.com/thomaspuppe/performance-workshop">https://github.com/thomaspuppe/performance-workshop</a></p>
+
+    <pre><code>
+git clone https://github.com/thomaspuppe/performance-workshop.git
+    </code></pre>
+
+
+    <h3>lokaler Webserver</h3>
+    <p>Wir brauchen die Adresse <a href="http://localhost:8000/index.html">http://localhost:8000/index.html</a> mit einem lokalen Webserver.</p>
+
+    <p>Start eines lokalen Webservers via ... </p>
+        <ul>
+            <li><code>python3 -m http.server 8000</code></li>
+            <li><code>npm install -g node-static && static -p 8000</code></li>
+            <li>weitere one-liner: <a href="https://gist.github.com/willurd/5720255">https://gist.github.com/willurd/5720255</a></li>
+            <li>Visual Studio Code Extension: "Live Server"</li>
+            <li>
+        </ul>
+
+    <p>Oder ihr nutzt euren privaten Webserver oder Netlify/Vercel.</p>
+
+    <p>Der Aufruf ganz normal von der Festplatte via <code style="white-space: nowrap;">file:///Users/puppe/Desktop/performance-workshop/index.html</code> funktioniert auch, uns fehlen dann aber wichtige Funktionen beim Testen.</p>
+
+
+    <hr>
+
+    <h2>Für später</h2>
+
+    <h3>Cumulative Layout Shift</h3>
+
+    <ul>
+        <li>Chrome Devtools: Menü -> Show Console Drawer -> Rendering Tab -> Layout Shift Regions</li>
+        <li>Chrome Web Store: <a href="https://chrome.google.com/webstore/detail/cls-visualizer/jbbeihojggidiclbcneckhcblilapahn">CLS Visualizer</a></li>
+    </ul>
+
+    <h3>Debugging</h3>
+
+    <ul>
+        <li><a href="https://www.debugbear.com/resource-hint-validator">Resource Hint (rel=preload) Validator</a></li>
+    </ul>
+    
+
+  </main>
+</body>
+
+</html>
