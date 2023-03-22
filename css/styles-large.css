@@ -136,15 +136,15 @@ section {
 }
 
 .hero-figure {
-  /* aspect-ratio: 16/9; */
+  aspect-ratio: 16/9;
 }
 
 .teasers img {
-  /* aspect-ratio: 16/9; */
+  aspect-ratio: 16/9;
 }
 
 .teasers .avatarlink img {
-  /* aspect-ratio: 1; */
+  aspect-ratio: 1;
 }
 
 h2,
