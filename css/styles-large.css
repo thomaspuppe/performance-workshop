@@ -1,13 +1,6 @@
 @charset "UTF-8";
 
 /* ********************************************************
-   Google Font (muss vor weiteren Definitionen stehen!)
-   ***************************************************** */
-
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=block');
-
-
-/* ********************************************************
    Bootstrap als Fuellmaterial, um eine große langsame 
    Datei zu haben, die man gut in den DevTools sieht.
    ***************************************************** 
@@ -53,7 +46,7 @@ html {
 
 body {
   /* TODO: Genutzte Webfont ändern */
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'MontserratLocal', sans-serif;
   /*font-family: 'MontserratLocal', sans-serif;*/
   /*font-family: "MySlowWebfont", sans-serif;*/
 }
