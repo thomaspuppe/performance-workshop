@@ -15,6 +15,9 @@
 * [perf-tooling.today](https://www.perf-tooling.today/)
 
 
+Zur Diskussion um `system-ui` im System-Font-Stack: https://infinnie.github.io/blog/2017/systemui.html . Da geht es aber um chinesische Windows-Systeme. Also eher ein Nischen-Problem. Und der Hinweis im Blogpost (von 2017), dass Bootstrap `system-ui` aus seinem Font-Stack entfernt habe, stimmt auch nicht (mehr). Also alles halb so schlimm wie ich annahm. Sorry für die Verwirrung.
+
+
 --- 
 
 ## Setup der lokalen Website
