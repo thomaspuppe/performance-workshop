@@ -130,7 +130,7 @@ section {
 }
 
 .hero-image {
-  background-image: url('/images_unoptimized/png/hero.png');
+  background-image: url('/images_optimized/png/hero.png');
   background-size: cover;
   padding-bottom: 56.25%;
 }
