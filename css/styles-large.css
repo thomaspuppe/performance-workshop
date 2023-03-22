@@ -21,7 +21,7 @@
   /* TODO: Font Display Strategy */
   /* https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display */
   /* font-display:[auto|block|swap|fallback|optional]; */
-  /* font-display: block; */
+  font-display: swap;
 }
 
 @font-face {
@@ -46,9 +46,9 @@ html {
 
 body {
   /* TODO: Genutzte Webfont ändern */
-  font-family: 'MontserratLocal', sans-serif;
   /*font-family: 'MontserratLocal', sans-serif;*/
-  /*font-family: "MySlowWebfont", sans-serif;*/
+  /*font-family: 'MontserratLocal', sans-serif;*/
+  font-family: "MySlowWebfont", sans-serif;
 }
 
 h1, 
