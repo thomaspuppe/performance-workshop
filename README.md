@@ -42,3 +42,10 @@ Der Aufruf ganz normal von der Festplatte via `file:///Users/puppe/Desktop/perfo
 ## Präsentation
 
 * [https://lama.thomaspuppe.de/presentation.pdf](https://lama.thomaspuppe.de/presentation.pdf)
+
+
+## Quellen zum Reinnerden ins Thema Website Performance
+
+* [web.dev/fast](https://web.dev/fast/), [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+* Blogs von [CalibreApp](https://calibreapp.com/blog), [Harry Roberts](https://csswizardry.com/archive/), [Tim Kadlec](https://timkadlec.com/remembers/), [Smashing Magazine](https://www.smashingmagazine.com/category/performance/), [DebugBear](https://www.debugbear.com/blog), [perfplanet.com](https://www.perfplanet.com/)
+* [perf-tooling.today](https://www.perf-tooling.today/)
