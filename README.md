@@ -1,21 +1,28 @@
 # Website Performance Workshop 🦙
 
-[https://lama.thomaspuppe.de](https://lama.thomaspuppe.de)
+* [https://lama.thomaspuppe.de](https://lama.thomaspuppe.de)
+* [https://lama.thomaspuppe.de/before.html](https://lama.thomaspuppe.de/before.html)
+* [https://lama.thomaspuppe.de/after.html](https://lama.thomaspuppe.de/after.html)
 
 
 ## Präsentation
 
-* [https://lama.thomaspuppe.de/presentation.pdf](https://lama.thomaspuppe.de/presentation.pdf)
+* [https://lama.thomaspuppe.de/Website-Performance_2023-10.pdf](https://lama.thomaspuppe.de/Website-Performance_2023-10.pdf)
 
 
 ## Quellen zum Reinnerden ins Thema Website Performance
 
-* [web.dev/fast](https://web.dev/fast/), [awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
-* Blogs von [CalibreApp](https://calibreapp.com/blog), [Harry Roberts](https://csswizardry.com/archive/), [Tim Kadlec](https://timkadlec.com/remembers/), [Smashing Magazine](https://www.smashingmagazine.com/category/performance/), [DebugBear](https://www.debugbear.com/blog), [perfplanet.com](https://www.perfplanet.com/)
-* [perf-tooling.today](https://www.perf-tooling.today/)
+* web.dev/fast
+* github.com/davidsonfellipe/awesome-wpo
+* www.smashingmagazine.com/category/performance/
+* perfplanet.com​
+* calibreapp.com/blog
+* speedcurve.com/blog
+* debugbear.com/blog​
+* simonhearne.com/posts
+* csswizardry.com/archive
+* timkadlec.com/remembers
 
-
-Zur Diskussion um `system-ui` im System-Font-Stack: https://infinnie.github.io/blog/2017/systemui.html . Da geht es aber um chinesische Windows-Systeme. Also eher ein Nischen-Problem. Und der Hinweis im Blogpost (von 2017), dass Bootstrap `system-ui` aus seinem Font-Stack entfernt habe, stimmt auch nicht (mehr). Also alles halb so schlimm wie ich annahm. Sorry für die Verwirrung.
 
 
 --- 
