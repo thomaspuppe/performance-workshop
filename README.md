@@ -4,6 +4,9 @@
 * [https://lama.thomaspuppe.de/before.html](https://lama.thomaspuppe.de/before.html)
 * [https://lama.thomaspuppe.de/after.html](https://lama.thomaspuppe.de/after.html)
 
+
+https://sandsmedia.zoom.us/j/87348598358?pwd=cTA0NVVCNlRPT0xwaSthRlFUaDBNdz09
+
 ---
 
 
